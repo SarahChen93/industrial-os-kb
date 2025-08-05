@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: 工业操作系统知识库
+
+nav：
+
+-首页：index.md
+
+-工业RTOS：industrial-rtos.md

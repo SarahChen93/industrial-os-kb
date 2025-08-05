@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# 我的工业操作系统知识库
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+欢迎来到我的知识库，我会在这里整理以下内容：
 
-## Commands
+- 工业操作系统架构设计
+- 实时内核调度机制
+- 各类RTOS对比与评估
+- 安全认证标准（如 ARINC 653, POSIX）
+- 开源系统（Zephyr, RT-Thread, FreeRTOS）研究
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+持续更新中……
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
