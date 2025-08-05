@@ -1,7 +1,7 @@
 site_name: 工业操作系统知识库
 
 nav:
-
-  -首页 : index.md 
-
-  -工业RTOS : industrial-rtos.md
+  - 首页: index.md
+  - 工业RTOS: industrial-rtos.md
+  - 产品经理: 
+      - 操作系统需求收集要点: 产品经理/操作系统需求收集要点.md
